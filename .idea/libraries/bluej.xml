@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="bluej">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../../../Program Files/BlueJ/lib/bluej.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
